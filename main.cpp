@@ -16,5 +16,5 @@ int main() {
     std::cout << "Hello World";
 
     //returns 0 because the OS will only know the program was successfully executed if it returns what it was defined to output
-    return 0
+    return 0;
 }
